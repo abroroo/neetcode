@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="520f2418-402f-4303-a585-ce3cdb9d9844" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Arrays_Hashing/TwoSum.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays_Hashing/GroupAnagrams.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +59,8 @@
       <workItem from="1717226348878" duration="159000" />
       <workItem from="1717226616050" duration="79000" />
       <workItem from="1717226722658" duration="154000" />
-      <workItem from="1717227457042" duration="16000" />
+      <workItem from="1717227457042" duration="103000" />
+      <workItem from="1717341136603" duration="43000" />
     </task>
     <servers />
   </component>
