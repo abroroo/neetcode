@@ -13,3 +13,13 @@ function groupAnagrams(strs: string[]): string[][] {
 
 
 // fucked up time complexity  O(n * klog(k))
+
+// since sort can't be used with str, we convert the str to an array and sort
+// we set sorterd array in hash and populate it again if we encounter same str
+//for example:
+// hash = {
+//     'abc': ['abc', 'abc']
+//     'ljk': ['ljk']
+//     'dej': ['dej', 'dej', 'dej']
+// }
+// aftre looping over all strs we create new array from the valus of hashes
